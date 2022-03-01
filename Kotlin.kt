@@ -9,7 +9,8 @@ fun main() {
     //for (i in 1 until 10) println(i)
    // for (i in 10L downTo  1) println(i)
    // for (i in 1.rangeTo(10)) println(i)
-
+    for (i in names)
+        println(i)
 
 
 
